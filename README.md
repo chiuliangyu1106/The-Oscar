@@ -1,5 +1,2 @@
-# The-Oscar
+# About me
 My personal repository
-# HI 
-## oscar
-### chiu
